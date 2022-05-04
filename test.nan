@@ -1,0 +1,7 @@
+func hello_world(): void{
+    puts("call Hello World!");
+}
+func main(): void{
+    hello_world();
+    puts("this is main!");
+}
