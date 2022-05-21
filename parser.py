@@ -1,5 +1,4 @@
 #!/bin/python3
-# author: Juesheng Wang
 # -*- coding: utf-8 -*-
 from prettytable import PrettyTable
 class CFG(object):

@@ -1,5 +1,4 @@
 #!/bin/python3
-# author: Juesheng Wang
 # -*- coding: utf-8 -*-
 import sys
 import os
